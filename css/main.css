@@ -50,6 +50,14 @@ h4{
 	padding-bottom: 50px;
 }
 
+#top-btn{
+	margin-top:100px;
+}
+
+#arrow{
+	margin-top: 100px;
+}
+
 .sub-space{
 width: 60%;
 	margin-right: auto;
@@ -179,5 +187,32 @@ a.navbar-item:hover{
 }
 
 
+@media only screen and (max-width : 768px) {
 
+
+
+
+#top-btn{
+	margin-top:30px;
+}
+
+#arrow{
+	display: none;
+}
+
+
+/*	.demo-1 .main-title, 
+	.demo-3 .main-title,
+	.demo-4 .main-title {
+		font-size: 11px;
+
+		width: 90%;
+		margin-left:auto;
+		margin-right: auto;
+	}
+
+	.demo-2 .main-title {
+		font-size: 11px;
+	}*/
+}
 
