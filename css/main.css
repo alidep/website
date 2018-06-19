@@ -1,0 +1,183 @@
+body, .footer{
+	background-color: #292935;
+	color:#fff;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+/*.hero-body {
+	background-color: #292935;
+	text-align: center;
+	height: 100%;
+}*/
+
+
+
+h1{
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 700;
+	margin: 10px;
+	font-size: 64px;
+	
+}
+
+
+h2{
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 48px;
+	font-weight: 700;
+	color: #6CF6FB;
+	margin: 10px;
+	padding-bottom: 10px;
+}
+
+
+
+
+h3{
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	
+	margin: 10px;
+}
+
+h4{
+	font-family: 'Inconsolata', monospace;
+	font-size: 21px;
+	font-weight: 700;
+	
+	margin: 10px;
+	padding-bottom: 50px;
+}
+
+.sub-space{
+width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+p{
+	font-family: 'Inconsolata', monospace;
+	line-height: 1.6;
+
+}
+
+a{
+	color: #6CF6FB;
+}
+
+
+
+#hero-btn{
+	background-color: #72F3BA;
+	font-family: 'Inconsolata', monospace;
+	font-size: 18px;
+	
+	font-weight: 700;
+	border: none;
+	
+}
+
+
+.thin-new{
+	font-family: 'Noto Sans', sans-serif;
+font-weight: 400;
+color: #6CF6FB;
+}
+
+.subtitle-new{
+font-size: 24px;
+font-family: 'Inconsolata', monospace;
+	font-weight: 700;
+}
+
+
+
+
+
+
+
+.navbar
+{background-color: #292935;}
+
+.button
+{background-color: #72F3BA;
+	color:#212E37;
+border:5px solid #fff;
+font-family: 'Inconsolata', monospace;
+font-weight: 700;}
+
+
+.button.is-link
+{
+	background-color: #72F3BA;
+	border:none;
+	color:#363636;
+	font-weight: 700;
+}
+
+
+#blue{
+	color: #6CF6FB;
+}
+
+#services{
+		  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#team {
+	border-radius: 50%;
+	border:5px solid #fff;
+	  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+
+}
+
+
+/* Navbar */
+
+a.navbar-item
+{color:#fff;
+font-family: 'Inconsolata', monospace;
+font-weight: 700;
+font-size: 18px;}
+
+a.navbar-item:hover{
+	color: #6CF6FB;
+}
+
+.navbar-item img{
+	width: 120px;
+	max-height:300px;
+}
+
+.navbar-menu
+{background-color: #292935;}
+
+/*#logo
+{position: absolute;
+	top:-10px;
+	width: 150px;
+	z-index: 20;
+	
+}*/
+
+#center-one
+{
+	text-align: left;
+}
+
+.field{
+	padding: 10px;
+}
+
+
+
+
